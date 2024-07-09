@@ -40,7 +40,7 @@ public struct DummyView: View {
 
 ```swift
 dependencies: [
-  .package(url: "https://github.com/Monsteel/ReactorViewStore.git", .upToNextMajor(from: "1.0.0"))
+  .package(url: "https://github.com/Monsteel/ReactorViewStore.git", .upToNextMajor(from: "0.0.1"))
 ]
 ```
 
