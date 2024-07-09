@@ -1,6 +1,6 @@
 # ReactorViewStore
 
-#### You can use ReactorKit in SwiftUI.
+#### You can use [ReactorKit](https://github.com/ReactorKit/ReactorKit) in SwiftUI.
 
 💁🏻‍♂️ Implemented purely in Swift, SwiftUI.<br>
 💁🏻‍♂️ An extension connecting SwiftUI with ReactorKit.<br>
@@ -42,6 +42,12 @@ dependencies: [
   .package(url: "https://github.com/Monsteel/ReactorViewStore.git", .upToNextMajor(from: "1.0.0"))
 ]
 ```
+
+## Currently in Use
+
+| Company                                                                                                                   | Description                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/Monsteel/ReactorViewStore/assets/52942409/e2754e73-ac06-4520-9ddf-e0bf84e84f93" height="50"> | Utilized in the [Jeongyookgak Commerce App](https://apps.apple.com/kr/app/%EC%A0%95%EC%9C%A1%EA%B0%81-%EC%96%B8%EC%A0%9C%EB%82%98-%EC%B4%88%EC%8B%A0%EC%84%A0/id1490984523?l=en-GB), developed based on UIKit.<br> Currently integrating SwiftUI components with the goal of transitioning entirely to SwiftUI and introducing TCA in the future. |
 
 ## Let's Build Together
 
