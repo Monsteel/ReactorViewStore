@@ -1,6 +1,6 @@
 # ReactorViewStore
 
-#### You can use [ReactorKit](https://github.com/ReactorKit/ReactorKit) in SwiftUI.
+#### [Reactor](https://github.com/ReactorKit/ReactorKit)를 [TCA](https://github.com/pointfreeco/swift-composable-architecture)와 유사한 형태로 Maapping합니다.
 
 💁🏻‍♂️ Implemented purely in Swift, SwiftUI.<br>
 💁🏻‍♂️ An extension connecting SwiftUI with ReactorKit.<br>
@@ -10,6 +10,7 @@
 
 ✅ Using ReactorViewStore makes it easier to introduce SwiftUI into projects based on UIKit + ReactorKit.<br>
 ✅ Pursues independence for ReactorKit, UIKit, SwiftUI, etc., making it easy for future removal.<br>
+✅ You can easily publish Action and bind State more conveniently.
 ✅ You can easily publish Action and bind State more conveniently.
 
 ## Usage

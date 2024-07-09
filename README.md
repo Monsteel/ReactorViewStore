@@ -1,6 +1,6 @@
 # ReactorViewStore
 
-#### SwiftUI에서 ReactorKit을 사용할 수 있습니다.
+#### Mapping [Reactor](https://github.com/ReactorKit/ReactorKit) to a form similar to [TCA](https://github.com/pointfreeco/swift-composable-architecture)
 
 [There is also an explanation in English.](https://github.com/Monsteel/ReactorViewStore/tree/main/README_EN.md)
 
