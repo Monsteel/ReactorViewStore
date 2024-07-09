@@ -1,6 +1,6 @@
 # ReactorViewStore
 
-#### Mapping [Reactor](https://github.com/ReactorKit/ReactorKit) to a form similar to [TCA](https://github.com/pointfreeco/swift-composable-architecture)
+#### [Reactor](https://github.com/ReactorKit/ReactorKit)를 [TCA](https://github.com/pointfreeco/swift-composable-architecture)와 유사한 형태로 Maapping합니다.
 
 [There is also an explanation in English.](https://github.com/Monsteel/ReactorViewStore/tree/main/README_EN.md)
 
