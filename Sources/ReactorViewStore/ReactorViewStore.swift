@@ -10,13 +10,14 @@ import ReactorKit
 import SwiftUI
 
 public final class ReactorViewStore<Reactor: ReactorKit.Reactor>: ObservableObject {
-  typealias State = Reactor.State
-  typealias Action = Reactor.Action
+  public typealias State = Reactor.State
+  public typealias Action = Reactor.Action
 
   private let disposeBag = DisposeBag()
   private let reactor: Reactor
 
-  @Published var state: State
+  @Published
+  public var state: State
 
   public init(reactor: Reactor) {
     self.reactor = reactor
@@ -34,7 +35,7 @@ public final class ReactorViewStore<Reactor: ReactorKit.Reactor>: ObservableObje
       .disposed(by: disposeBag)
   }
 
-  func send(_ action: Action) {
+  public func send(_ action: Action) {
     reactor.action.onNext(action)
   }
 }
